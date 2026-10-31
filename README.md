@@ -6,6 +6,10 @@ O QA_Shop é um projeto open source de e-commerce desenvolvido para apoiar o apr
 
 Desenvolvido com as linguagens de front-end: HTML (HyperText Markup Language) - (Linguagem de Marcação de Hipertexto) , CSS (Cascading Style Sheets) - (Folhas de Estilo em Cascata) e a linguagem de programação JavaScript.
 
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
 
 ## Version English (EN)
 
@@ -13,11 +17,6 @@ QA_Shop is an open-source e-commerce project created to help beginners in Softwa
 
 Built using front-end technologies including HTML (HyperText Markup Language), CSS (Cascading Style Sheets), and JavaScript, providing a solid foundation for modern web development.
 
+## License
 
-
-
-
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+This project is licensed under the MIT License. See the LICENSE file for more details.
